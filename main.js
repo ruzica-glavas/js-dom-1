@@ -13,6 +13,6 @@ btn.addEventListener (`click`,()=>{
      btn.textContent="Spegni";
 }
 
-isOn=!isOn
+
 })
 
